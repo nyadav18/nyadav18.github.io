@@ -25,7 +25,7 @@
 - **Manage** membership desk operations to ensure member engagement and 
 satisfaction
 - Develop strong interpersonal, **community oriented** relationships
-- Collaborative position relying on workplace teamwork, **adaptability**, and **problem solving**
+- Collaborative position relying on workplace teamwork, **adaptability**, and **problem solving**  
 [University Family YMCA URL](http://www.seattleymca.org)
 
 ## DSquared Hospitality (Seattle, WA) 
@@ -34,5 +34,5 @@ satisfaction
 
 - Flexible shift work requiring a willingness to adapt to unexpected tasks and responsibilities
 - Efficiently able to **multitask** and operate well under pressure 
-- High level of interaction with guests to provide an **exceptional** level of service
+- High level of interaction with guests to provide an **exceptional** level of service  
 [DSquared Hospitality URL](https://www.dsquaredcompany.com/)
