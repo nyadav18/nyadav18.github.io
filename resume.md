@@ -1,4 +1,5 @@
-# Nikita Yadav [Linkedin](https://www.linkedin.com/in/nikita-yadav18/)
+# Nikita Yadav
+<font size: "3" > [Linkedin](https://www.linkedin.com/in/nikita-yadav18/) </font>
 
 # Objective
 
@@ -35,5 +36,5 @@ satisfaction
 - Efficiently able to **multitask** and operate well under pressure 
 - High level of interaction with guests to provide an **exceptional** level of service  
 
-[University Family YMCA URL](http://www.seattleymca.org)
+[University Family YMCA URL](http://www.seattleymca.org)|
 [DSquared Hospitality URL](https://www.dsquaredcompany.com/)
