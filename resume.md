@@ -20,6 +20,7 @@
 
 ## University Family YMCA (Seattle, WA)
 <img src=/img/ylogo.jpeg />
+
 **Membership Engagement Representative** (09/2019 - Present)
 
 - **Manage** membership desk operations to ensure member engagement and 
@@ -30,6 +31,7 @@ satisfaction
 
 ## DSquared Hospitality (Seattle, WA) 
 <img src=/img/dsquaredlogo.png />
+
 **Server** (04/2022 - Present)
 
 - Flexible shift work requiring a willingness to adapt to unexpected tasks and responsibilities
