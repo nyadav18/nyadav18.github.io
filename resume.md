@@ -18,7 +18,8 @@
 
 # Work Experience
 
-## University Family YMCA (Seattle, WA) ![YMCA logo](/Users/nikitayadav/GEOG458/nyadav18.github.io/ylogo.jpeg)
+## University Family YMCA (Seattle, WA)
+<img src=ylogo.jpeg />
 **Membership Engagement Representative** (09/2019 - Present)
 
 - **Manage** membership desk operations to ensure member engagement and 
