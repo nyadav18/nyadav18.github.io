@@ -1,5 +1,6 @@
-# Nikita Yadav
-<font size: "3" > [Linkedin](https://www.linkedin.com/in/nikita-yadav18/) </font>
+# Nikita Yadav  
+
+<span style ="font-size:10px;" >[Linkedin](https://www.linkedin.com/in/nikita-yadav18/)</span>
 
 # Objective
 
