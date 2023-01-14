@@ -19,7 +19,7 @@
 # Work Experience
 
 ## University Family YMCA (Seattle, WA)
-<img src=/img/ylogo.jpeg width="200"/>
+<img src=/img/ylogo.jpeg width="100"/>
 
 **Membership Engagement Representative** (09/2019 - Present)
 
@@ -29,7 +29,7 @@ satisfaction
 - Collaborative position relying on workplace teamwork, **adaptability**, and **problem solving**  
 
 ## DSquared Hospitality (Seattle, WA) 
-<img src=/img/dsquaredlogo.png />
+<img src=/img/dsquaredlogo.png width="100"/>
 
 **Server** (04/2022 - Present)
 
