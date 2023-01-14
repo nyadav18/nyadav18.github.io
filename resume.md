@@ -19,6 +19,7 @@
 # Work Experience
 
 ## University Family YMCA (Seattle, WA) 
+![y logo](/img/ylogo.jpeg)
 <img src=./img/ylogo.jpeg width="100">
 
 **Membership Engagement Representative** (09/2019 - Present)
